@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "Tor Project"
+license = "Mozilla Public License, Versión 2.0 (MPL-2.0)"

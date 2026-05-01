@@ -6,5 +6,5 @@ terminal = true
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "gokcehan"
+license = "MIT"

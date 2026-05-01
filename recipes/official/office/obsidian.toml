@@ -6,5 +6,6 @@ terminal = false
 formats = ["appimage", "tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "obsidianmd"
+license = "Catalyst license
+"

@@ -6,5 +6,5 @@ terminal = false
 formats = ["appimage", "tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "localsend"
+license = " Apache-2.0 license"

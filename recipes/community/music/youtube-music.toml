@@ -6,5 +6,5 @@ terminal = false
 formats = ["appimage", "tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "Pear-devs"
+license = "MIT"

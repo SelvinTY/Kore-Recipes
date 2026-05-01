@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "Supertuxkart"
+license = "GNU General Public License (GNU GPL)"

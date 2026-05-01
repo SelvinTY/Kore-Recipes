@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
+maintainer = "JetBrains"
 license = "Unknown"

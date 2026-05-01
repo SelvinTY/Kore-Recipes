@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "strawberry"
+license = "GPL-3.0 license"

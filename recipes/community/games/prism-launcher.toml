@@ -6,5 +6,5 @@ terminal = false
 formats = ["appimage", "tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "PrismLauncher"
+license = "GPL-3.0"

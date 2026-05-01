@@ -6,5 +6,5 @@ terminal = false
 formats = ["appimage", "tarball"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "ElyPrismLauncher"
+license = "GPL-3.0"

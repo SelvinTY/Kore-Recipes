@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball", "appimage"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "Vencord"
+license = "GPL-3.0 license"

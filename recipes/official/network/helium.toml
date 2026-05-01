@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball", "appimage"]
 
 [metadata]
-maintainer = "Unknown"
-license = "Unknown"
+maintainer = "imputnet"
+license = "GPL-3.0, BSD-3-Clause license"

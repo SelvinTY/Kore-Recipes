@@ -6,5 +6,5 @@ terminal = false
 formats = ["tarball"]
 
 [metadata]
-maintainer = "Unknown"
+maintainer = "Google Antigravity"
 license = "Unknown"
