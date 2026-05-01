@@ -1,0 +1,10 @@
+name = "Tor Expert Bundle"
+package_name = "tor-expert-bundle"
+url_template = "https://archive.torproject.org/tor-package-archive/torbrowser/$tor_ver/tor-expert-bundle-linux-x86_64-$tor_ver.tar.gz"
+description = "The Tor binary and supporting files, without the graphical browser interface."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

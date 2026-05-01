@@ -1,0 +1,10 @@
+name = "Lazygit"
+package_name = "lazygit"
+url_template = "https://github.com/jesseduffield/lazygit"
+description = "Lazygit is a fast and intuitive terminal-based interface for Git commands, designed to simplify complex workflows like staging, committing, and rebasing through a navigable keyboard-driven TUI."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

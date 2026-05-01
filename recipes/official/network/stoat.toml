@@ -1,0 +1,10 @@
+name = "Stoat"
+package_name = "stoat"
+url_template = "https://github.com/stoatchat/for-desktop"
+description = "A decentralized and secure chat application for privacy-conscious communication."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

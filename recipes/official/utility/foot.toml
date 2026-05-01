@@ -1,0 +1,10 @@
+name = "Foot"
+package_name = "foot"
+url_template = "https://codeberg.org/dnkl/foot"
+description = "A fast, lightweight, and minimalistic Wayland terminal emulator."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

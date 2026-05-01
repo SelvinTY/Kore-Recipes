@@ -1,0 +1,10 @@
+name = "Trinity Launcher"
+package_name = "trinity-launcher"
+url_template = "https://github.com/Trinity-LA/Trinity-Launcher"
+description = "A powerful and lightweight custom launcher for your games."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Trinity-LA"
+license = "BSD-3-Clause license"

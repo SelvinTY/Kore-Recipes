@@ -1,0 +1,10 @@
+name = "Micro"
+package_name = "micro"
+url_template = "https://github.com/micro-editor/micro"
+description = "A modern and intuitive terminal-based text editor with mouse support and intuitive shortcuts."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "Helium Browser"
+package_name = "helium"
+url_template = "https://github.com/imputnet/helium-linux"
+description = "The Chromium-based web browser made for people, with love. Privacy-first with unbiased ad-blocking. No bloat and no noise.."
+terminal = false
+formats = ["tarball", "appimage"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

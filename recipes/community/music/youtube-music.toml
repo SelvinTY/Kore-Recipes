@@ -1,0 +1,10 @@
+name = "Youtube Music"
+package_name = "youtube-music"
+url_template = "https://github.com/pear-devs/pear-desktop"
+description = "Desktop client for YouTube Music with integrated media keys and background playback."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "Vscodium"
+package_name = "vscodium"
+url_template = "https://github.com/VSCodium/vscodium"
+description = "Free/Libre Open Source Software Binaries of VS Code. A code editor with a massive ecosystem of extensions."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

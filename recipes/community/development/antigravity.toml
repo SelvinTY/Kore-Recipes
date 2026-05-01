@@ -1,0 +1,10 @@
+name = "Antigravity"
+package_name = "antigravity"
+url_template = "https://edgedl.me.gvt1.com/edgedl/release2/j0qc3/antigravity/stable/$ag_ver/linux-x64/Antigravity.tar.gz"
+description = "Powerful agentic AI coding assistant designed by Google Deepmind."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

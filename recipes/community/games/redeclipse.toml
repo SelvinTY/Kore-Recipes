@@ -1,0 +1,10 @@
+name = "Red Eclipse"
+package_name = "redeclipse"
+url_template = "https://github.com/redeclipse/base"
+description = "An open-source sci-fi first-person shooter, forked from Cube 2: Sauerbraten."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

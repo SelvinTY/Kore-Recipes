@@ -1,0 +1,10 @@
+name = "Blender"
+package_name = "blender"
+url_template = "https://mirrors.dotsrc.org/blender/release/$blender_major/blender-$blender_ver-linux-x64.tar.xz"
+description = "The free and open source 3D creation suite, supporting the entirety of the 3D pipeline."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

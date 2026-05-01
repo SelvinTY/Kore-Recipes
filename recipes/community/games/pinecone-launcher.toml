@@ -1,0 +1,10 @@
+name = "Pinecone Launcher"
+package_name = "pinecone-launcher"
+url_template = "https://github.com/ElyPrismLauncher/Launcher"
+description = "A specialized fork of Prism Launcher optimized for specific community features and modpacks."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

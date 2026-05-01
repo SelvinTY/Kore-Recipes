@@ -1,0 +1,10 @@
+name = "Bottom"
+package_name = "bottom"
+url_template = "https://github.com/ClementTsang/bottom"
+description = "A customizable cross-platform graphical system monitor for the terminal."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

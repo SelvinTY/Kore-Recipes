@@ -1,0 +1,10 @@
+name = "JetBrains Toolbox"
+package_name = "jetbrains-toolbox"
+url_template = "https://download.jetbrains.com/toolbox/jetbrains-toolbox-$jb_ver.tar.gz"
+description = "A central dashboard to manage JetBrains IDEs, updates, and projects effortlessly."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "SuperTuxKart"
+package_name = "supertuxkart"
+url_template = "https://github.com/supertuxkart/stk-code"
+description = "A 3D open-source arcade racer with a variety of characters, tracks, and modes."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

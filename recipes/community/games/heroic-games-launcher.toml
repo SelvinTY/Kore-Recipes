@@ -1,0 +1,10 @@
+name = "Heroic Games Launcher"
+package_name = "heroic-games-launcher"
+url_template = "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher"
+description = "An open-source game launcher for Epic Games, GOG, and Amazon Games on Linux."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

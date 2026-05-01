@@ -1,0 +1,10 @@
+name = "vesktop"
+package_name = "vesktop"
+url_template = "https://github.com/Vencord/Vesktop"
+description = "An all-in-one Discord client with built-in Vencord and plugins for a better experience."
+terminal = false
+formats = ["tarball", "appimage"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

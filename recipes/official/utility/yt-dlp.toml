@@ -1,0 +1,10 @@
+name = "yt-dlp"
+package_name = "yt-dlp"
+url_template = "https://github.com/yt-dlp/yt-dlp"
+description = "A feature-rich command-line audio/video downloader with support for thousands of sites."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

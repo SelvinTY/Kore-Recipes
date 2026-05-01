@@ -1,0 +1,10 @@
+name = "Waterfox"
+package_name = "waterfox"
+url_template = "https://cdn.waterfox.com/waterfox/releases/$wf_ver/Linux_x86_64/waterfox-$wf_ver.tar.bz2"
+description = "A privacy-focused web browser based on Firefox, optimized for performance and customization."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

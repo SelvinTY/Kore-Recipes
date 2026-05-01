@@ -1,0 +1,10 @@
+name = "Floorp"
+package_name = "floorp"
+url_template = "https://github.com/Floorp-Projects/Floorp"
+description = "A highly customizable and privacy-oriented Firefox fork with advanced workspace features."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

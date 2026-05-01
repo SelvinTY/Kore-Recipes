@@ -1,0 +1,10 @@
+name = "Reaper"
+package_name = "reaper"
+url_template = "https://www.reaper.fm/files/7.x/reaper769_linux_x86_64.tar.xz"
+description = "A complete digital audio production application offering full multitrack audio and MIDI recording."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

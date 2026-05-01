@@ -1,0 +1,10 @@
+name = "Sublime Text"
+package_name = "sublime-text"
+url_template = "https://download.sublimetext.com/sublime_text_build_$st_build_x64.tar.xz"
+description = "A sophisticated text editor for code, markup, and prose with ultra-fast performance."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

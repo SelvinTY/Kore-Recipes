@@ -1,0 +1,10 @@
+name = "Obsidian"
+package_name = "obsidian"
+url_template = "https://github.com/obsidianmd/obsidian-releases"
+description = "A powerful knowledge base that works on top of a local folder of plain text Markdown files."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

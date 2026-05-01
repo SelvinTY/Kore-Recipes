@@ -1,0 +1,10 @@
+name = "Helix"
+package_name = "helix"
+url_template = "https://github.com/helix-editor/helix"
+description = "A post-modern modal text editor written in Rust with built-in LSP support."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

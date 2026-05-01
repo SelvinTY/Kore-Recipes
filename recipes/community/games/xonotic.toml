@@ -1,0 +1,10 @@
+name = "Xonotic"
+package_name = "xonotic"
+url_template = "https://dl.xonotic.org/xonotic-0.8.6.zip"
+description = "A free and open-source first-person shooter forked from the Darkplaces Quake source-port."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "Prism Launcher"
+package_name = "prism-launcher"
+url_template = "https://github.com/PrismLauncher/PrismLauncher"
+description = "A custom Minecraft launcher that allows you to easily manage multiple installations and mods."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

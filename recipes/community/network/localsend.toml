@@ -1,0 +1,10 @@
+name = "LocalSend"
+package_name = "localsend"
+url_template = "https://github.com/localsend/localsend"
+description = "An open-source cross-platform alternative to AirDrop for sharing files over the local network."
+terminal = false
+formats = ["appimage", "tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "Discord"
+package_name = "discord"
+url_template = "https://discord.com/api/download?platform=linux&format=tar.gz"
+description = "The official communication platform for communities to talk, chat, and hang out."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

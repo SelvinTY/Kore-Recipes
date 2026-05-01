@@ -1,0 +1,10 @@
+name = "Tor Browser"
+package_name = "tor-browser"
+url_template = "https://www.torproject.org/dist/torbrowser/$tor_ver/tor-browser-linux-x86_64-$tor_ver.tar.xz"
+description = "Privacy-focused browser that protects you against tracking, surveillance, and censorship."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

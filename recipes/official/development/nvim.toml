@@ -1,0 +1,10 @@
+name = "Neovim"
+package_name = "nvim"
+url_template = "https://github.com/neovim/neovim"
+description = "Hyperextensible Vim-based text editor focused on extensibility and usability."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

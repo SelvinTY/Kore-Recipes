@@ -1,0 +1,10 @@
+name = "Telegram"
+package_name = "telegram"
+url_template = "https://github.com/telegramdesktop/tdesktop"
+description = "Fast and secure desktop messaging app, seamlessly synced between devices."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

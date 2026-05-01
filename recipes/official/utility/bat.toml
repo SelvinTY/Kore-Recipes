@@ -1,0 +1,10 @@
+name = "Bat"
+package_name = "bat"
+url_template = "https://github.com/sharkdp/bat"
+description = "A cat(1) clone with syntax highlighting and Git integration for the terminal."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

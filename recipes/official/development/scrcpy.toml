@@ -1,0 +1,10 @@
+name = "scrcpy"
+package_name = "scrcpy"
+url_template = "https://github.com/Genymobile/scrcpy"
+description = "Display and control Android devices connected via USB or TCP/IP from your desktop."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

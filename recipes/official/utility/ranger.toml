@@ -1,0 +1,10 @@
+name = "Ranger"
+package_name = "ranger"
+url_template = "https://ranger.fm/ranger-stable.tar.gz"
+description = "A console file manager with VI key bindings and a multi-pane minimalistic interface."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

@@ -1,0 +1,10 @@
+name = "Zen Browser"
+package_name = "zen"
+url_template = "https://github.com/zen-browser/desktop/"
+description = "A beautiful and fast web browser built on top of Firefox, focused on productivity and privacy."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

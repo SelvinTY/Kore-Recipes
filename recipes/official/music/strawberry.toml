@@ -1,0 +1,10 @@
+name = "Strawberry"
+package_name = "strawberry"
+url_template = "https://github.com/strawberrymusicplayer/strawberry"
+description = "A music player and collection organizer focused on high-fidelity audio playback."
+terminal = false
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

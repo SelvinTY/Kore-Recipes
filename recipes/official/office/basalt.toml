@@ -1,0 +1,10 @@
+name = "Basalt"
+package_name = "basalt"
+url_template = "https://github.com/erikjuhani/basalt"
+description = "A lightweight and fast desktop application for project and task management."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"

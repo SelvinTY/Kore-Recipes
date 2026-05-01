@@ -1,0 +1,10 @@
+name = "Croc"
+package_name = "croc"
+url_template = "https://github.com/schollz/croc"
+description = "Easily and securely send files and folders from one computer to another."
+terminal = true
+formats = ["tarball"]
+
+[metadata]
+maintainer = "Unknown"
+license = "Unknown"
