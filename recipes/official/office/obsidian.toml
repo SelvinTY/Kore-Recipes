@@ -7,5 +7,4 @@ formats = ["appimage", "tarball"]
 
 [metadata]
 maintainer = "obsidianmd"
-license = "Catalyst license
-"
+license = "Catalyst license"
