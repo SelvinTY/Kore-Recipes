@@ -50,6 +50,34 @@ This is where everything else lives. It’s the ideal place for:
 
 ---
 
+## Multimedia Support (Icons & Screenshots)
+
+Kore-Recipes and KPM support native multimedia capabilities for the GUI. You can enhance your recipes by adding icons and screenshots.
+
+* **`icon_url`**: A direct link to a PNG or SVG image. KPM will download and display this icon. If omitted, KPM attempts to find a system icon or uses a generic one.
+* **`screenshots`**: An array of image URLs (PNG, JPG, WEBP). These will be displayed in an interactive carousel in the KPM GUI.
+
+### Example with Multimedia
+
+```toml
+name = "OBS Studio"
+package_name = "obs-studio"
+url_template = "https://github.com/obsproject/obs-studio/releases/download/30.0.0/obs-studio-x64.tar.gz"
+description = "Free and open source software for video recording and live streaming."
+category = "Multimedia"
+
+# Multimedia
+icon_url = "https://raw.githubusercontent.com/obsproject/obs-studio/master/UI/forms/images/obs.png"
+screenshots = [
+    "https://obsproject.com/assets/images/new/obs-studio-28-mac.png",
+    "https://obsproject.com/assets/images/new/obs-studio-28-windows.png"
+]
+```
+
+> **Note:** If you want to test your changes locally before pushing, run `cargo run` in the `Kore-Recipes` directory to regenerate your local `packages.db`. You do not need to commit this database; our GitHub Actions workflow will automatically build and publish it upon merging.
+
+---
+
 ## Repository Structure
 
 ```text
