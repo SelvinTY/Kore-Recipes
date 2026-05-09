@@ -4,6 +4,10 @@ url_template = "https://github.com/strawberrymusicplayer/strawberry"
 description = "A music player and collection organizer focused on high-fidelity audio playback."
 terminal = false
 formats = ["tarball"]
+icon_url = "https://user-images.githubusercontent.com/554710/56511791-75f3ed80-64fb-11e9-815d-13bcb704a2dd.png"
+screenshots = [
+    "https://raw.githubusercontent.com/strawberrymusicplayer/strawberry/master/data/screenshot/screenshot.png"
+]
 
 [metadata]
 maintainer = "strawberry"
