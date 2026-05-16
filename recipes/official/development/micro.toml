@@ -4,6 +4,10 @@ url_template = "https://github.com/micro-editor/micro"
 description = "A modern and intuitive terminal-based text editor with mouse support and intuitive shortcuts."
 terminal = true
 formats = ["tarball"]
+icon_url = "https://raw.githubusercontent.com/micro-editor/micro/253065a4af5a417e3b13d62ec5f5f722457f4a53/assets/micro-logo-mark.svg"
+screenshots = [
+  "https://raw.githubusercontent.com/micro-editor/micro/refs/heads/master/assets/micro-solarized.png"
+]
 
 [metadata]
 maintainer = "micro-editor"
