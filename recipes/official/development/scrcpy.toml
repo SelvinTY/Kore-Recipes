@@ -4,6 +4,10 @@ url_template = "https://github.com/Genymobile/scrcpy"
 description = "Display and control Android devices connected via USB or TCP/IP from your desktop."
 terminal = true
 formats = ["tarball"]
+icon_url = "https://raw.githubusercontent.com/Genymobile/scrcpy/refs/heads/master/app/data/scrcpy.png"
+screenshots = [
+  "https://raw.githubusercontent.com/Genymobile/scrcpy/refs/heads/master/assets/screenshot-debian-600.jpg"
+]
 
 [metadata]
 maintainer = "Genymobile"
