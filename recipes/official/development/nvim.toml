@@ -6,7 +6,7 @@ terminal = true
 formats = ["tarball", "appimage"]
 icon_url = "https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-logo-300x87.png"
 screenshots = [
-  "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F17450586%2F210392573-57c0ad1c-5db0-4f2a-9119-608bd2398494.png&sp=1778973712T12e8dff2d8e4ef770985cdddca1281bd4eab9b3db19fe43a57e9b2f617de5000"
+  "https://nvchad.com/screenshots/onedark.webp"
 ]
 
 [metadata]

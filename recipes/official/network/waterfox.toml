@@ -4,9 +4,9 @@ url_template = "https://cdn.waterfox.com/waterfox/releases/$wf_ver/Linux_x86_64/
 description = "A privacy-focused web browser based on Firefox, optimized for performance and customization."
 terminal = false
 formats = ["tarball"]
-icon_url = "view-source:https://www.waterfox.com/favicons/apple-touch-icon.png"
+icon_url = "https://www.waterfox.com/_astro/app-icon-dark.CwYTjDIq.png"
 screenshots = [
-  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Waterfox_6.6.12_Screenshot.png/960px-Waterfox_6.6.12_Screenshot.png"
+  "https://www.waterfox.com/_astro/dark-tst.DZiOIaKf_Z2mFk5k.png"
 ]
 
 [metadata]
