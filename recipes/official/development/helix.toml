@@ -3,7 +3,11 @@ package_name = "helix"
 url_template = "https://github.com/helix-editor/helix"
 description = "A post-modern modal text editor written in Rust with built-in LSP support."
 terminal = true
-formats = ["tarball"]
+formats = ["tarball", "appimage"]
+icon_url = "https://raw.githubusercontent.com/helix-editor/helix/8c41b11607924f7584b77c8a6e6b16439a2f559f/logo.svg"
+screenshots = [
+    "https://raw.githubusercontent.com/helix-editor/helix/refs/heads/master/screenshot.png"
+]
 
 [metadata]
 maintainer = "The Helix Team"
