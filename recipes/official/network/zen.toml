@@ -4,6 +4,10 @@ url_template = "https://github.com/zen-browser/desktop/"
 description = "A beautiful and fast web browser built on top of Firefox, focused on productivity and privacy."
 terminal = false
 formats = ["tarball"]
+icon_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Zen_Browser_logo_%28red_circles%29.svg/40px-Zen_Browser_logo_%28red_circles%29.svg.png"
+screenshots = [
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Zen_Browser_1.8.2b_on_MacOS.png/960px-Zen_Browser_1.8.2b_on_MacOS.png"
+]
 
 [metadata]
 maintainer = "zen-browser"
