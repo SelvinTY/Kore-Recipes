@@ -4,6 +4,10 @@ url_template = "https://github.com/stoatchat/for-desktop"
 description = "A decentralized and secure chat application for privacy-conscious communication."
 terminal = false
 formats = ["tarball"]
+icon_url = "https://avatars.githubusercontent.com/u/234249415?s=200&v=4"
+screenshots = [
+  "https://stoat.chat/_astro/product.BtN8cTR_.png"
+]
 
 [metadata]
 maintainer = "stoatchat"
