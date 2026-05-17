@@ -3,7 +3,11 @@ package_name = "vscodium"
 url_template = "https://github.com/VSCodium/vscodium"
 description = "Free/Libre Open Source Software Binaries of VS Code. A code editor with a massive ecosystem of extensions."
 terminal = false
-formats = ["tarball"]
+formats = ["tarball", "appimage"]
+icon_url = "https://raw.githubusercontent.com/VSCodium/vscodium/83452e4c588142ee4868185ea535738108e428bf/icons/stable/codium_cnl.svg"
+screenshots = [
+  "https://vscodium.com/img/vscodium.png"
+]
 
 [metadata]
 maintainer = "VSCodium"
