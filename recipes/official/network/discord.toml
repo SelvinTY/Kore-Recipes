@@ -4,6 +4,10 @@ url_template = "https://discord.com/api/download?platform=linux&format=tar.gz"
 description = "The official communication platform for communities to talk, chat, and hang out."
 terminal = false
 formats = ["tarball"]
+icon_url = "https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/66e3d80db9971f10a9757c99_Symbol.svg"
+screenshots = [
+  "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fstatic1.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2022%2F11%2Fdiscord-screenshot.jpg&sp=1778975929T2c7cf6aed71e0ffd323fa0331afebbac038d2ceedd2c96e432de480a34032dfa"
+]
 
 [metadata]
 maintainer = "Discord"
