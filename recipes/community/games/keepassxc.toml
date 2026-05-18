@@ -1,0 +1,25 @@
+name = "keepassxc"
+package_name = "keepassxc"
+url_template = "https://github.com/keepassxreboot/keepassxc"
+description = "KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information. You can run KeePassXC on Windows, macOS, and Linux systems. KeePassXC is for people with extremely high demands of secure personal data management."
+terminal = false
+formats = ["appimage"]
+icon_url = "https://keepassxc.org/assets/img/keepassxc.svg"
+screenshots = [
+    "https://keepassxc.org/assets/img/screenshots/welcome_screen.png"
+    "https://keepassxc.org/assets/img/screenshots/unlock_database.png"
+    "https://keepassxc.org/assets/img/screenshots/new_db_wizard_1.png"
+    "https://keepassxc.org/assets/img/screenshots/new_db_wizard_2.png"
+    "https://keepassxc.org/assets/img/screenshots/import_wizard.png"
+    "https://keepassxc.org/assets/img/screenshots/csv_import.png"
+    "https://keepassxc.org/assets/img/screenshots/database_view.png"
+    "https://keepassxc.org/assets/img/screenshots/edit_entry.png"
+    "https://keepassxc.org/assets/img/screenshots/edit_entry_icons.png"
+    "https://keepassxc.org/assets/img/screenshots/password_generator_advanced.png"
+    "https://keepassxc.org/assets/img/screenshots/passphrase_generator.png"
+    "https://keepassxc.org/assets/img/screenshots/database_reports.png"
+]
+
+[metadata]
+maintainer = "droidmonkey, phoerious"
+license = "Unknown"
