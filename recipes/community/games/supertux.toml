@@ -1,0 +1,14 @@
+name = "SuperTux"
+package_name = "supertux"
+url_template = "https://github.com/supertux/supertux"
+description = "SuperTux is a jump'n'run game with strong inspiration from the Super Mario Bros. games for the various Nintendo platforms."
+terminal = false
+formats = ["appimage"]
+icon_url = "https://upload.wikimedia.org/wikipedia/commons/4/42/SuperTux_Icon_2021.png"
+screenshots = [
+    "https://www.supertux.org/images/0_7_0/github_preview.png"
+]
+
+[metadata]
+maintainer = "Supertux Organization"
+license = "GPL-3.0 license"
