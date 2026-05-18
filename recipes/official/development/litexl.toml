@@ -1,0 +1,14 @@
+name = "Lite XL"
+package_name = "lite-xl"
+url_template = "https://github.com/lite-xl/lite-xl"
+description = "A lightweight text editor written in Lua, adapted from lite."
+terminal = false
+formats = ["tarball", "appimage"]
+icon_url = "https://raw.githubusercontent.com/lite-xl/lite-xl/refs/heads/master/resources/icons/icon.ico"
+screenshots = [
+    "https://user-images.githubusercontent.com/433545/111063905-66943980-84b1-11eb-9040-3876f1133b20.png"
+]
+
+[metadata]
+maintainer = "franko & co"
+license = "MIT license"
