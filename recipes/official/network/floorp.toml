@@ -4,6 +4,10 @@ url_template = "https://github.com/Floorp-Projects/Floorp"
 description = "A highly customizable and privacy-oriented Firefox fork with advanced workspace features."
 terminal = false
 formats = ["tarball"]
+icon_url = "https://commons.wikimedia.org/wiki/File:Floorp_logo_without_text.svg#/media/File:Floorp_logo_without_text.svg"
+screenshots = [
+  "https://floorp.app/screenshot.avif"
+]
 
 [metadata]
 maintainer = "Floorp-Projects"

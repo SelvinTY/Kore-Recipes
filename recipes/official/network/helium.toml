@@ -4,6 +4,10 @@ url_template = "https://github.com/imputnet/helium-linux"
 description = "The Chromium-based web browser made for people, with love. Privacy-first with unbiased ad-blocking. No bloat and no noise.."
 terminal = false
 formats = ["tarball", "appimage"]
+icon_url = "https://raw.githubusercontent.com/imputnet/helium/refs/heads/main/resources/branding/app_icon/raw.png"
+screenshots = [
+  "view-source:https://helium.computer/screenshots/lead.avif"
+]
 
 [metadata]
 maintainer = "imputnet"

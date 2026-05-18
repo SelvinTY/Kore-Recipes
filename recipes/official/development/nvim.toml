@@ -3,7 +3,11 @@ package_name = "nvim"
 url_template = "https://github.com/neovim/neovim"
 description = "Hyperextensible Vim-based text editor focused on extensibility and usability."
 terminal = true
-formats = ["tarball"]
+formats = ["tarball", "appimage"]
+icon_url = "https://raw.githubusercontent.com/neovim/neovim.github.io/master/static/logos/neovim-logo-300x87.png"
+screenshots = [
+  "https://nvchad.com/screenshots/onedark.webp"
+]
 
 [metadata]
 maintainer = "neovim"
